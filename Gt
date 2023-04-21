@@ -1,0 +1,7 @@
+@name conc
+@persist 
+interval(1)
+
+if(first()|dupefineshed){
+concmd("say cringe")
+}
