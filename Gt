@@ -2,6 +2,6 @@
 @persist 
 interval(1)
 
-if(first()|dupefineshed){
+if(first()|dupefineshed()){
 concmd("say cringe")
 }
